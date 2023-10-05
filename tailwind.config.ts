@@ -18,7 +18,7 @@ const config: Config = {
           800: '#912018',
           900: '#7A271A',
         },
-      }
+      },
     },
   },
   plugins: [],
