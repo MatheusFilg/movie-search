@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  env: {
-    OMDB: '64ed8648',
-  }
-}
+const nextConfig = {}
 
 module.exports = nextConfig
